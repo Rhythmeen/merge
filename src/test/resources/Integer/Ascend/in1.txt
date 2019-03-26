@@ -1,0 +1,8 @@
+-1000
+-100
+15
+16
+20
+500
+1487
+C:\Users\Anton\IdeaProjects\merge\src\test\resources\Integer\Ascend\in1.txt
